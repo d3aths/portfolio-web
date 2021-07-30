@@ -11,5 +11,6 @@ Not sure what else to put on it yet. Don't really have any projects outside of s
  - [ ] more writing? idk
  - [ ] skillz
  - [ ] proj demos
+ - [ ] MAKE RESPONSIVE FOR MOBILE
 
 ***
