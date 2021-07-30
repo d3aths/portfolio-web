@@ -8,8 +8,8 @@ Not sure what else to put on it yet. Don't really have any projects outside of s
 
  - [x] basic info
  - [x] cute gifs
- - [] more writing? idk
- - [] skillz
- - [] proj demos
+ - [ ] more writing? idk
+ - [ ] skillz
+ - [ ] proj demos
 
 ***
