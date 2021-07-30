@@ -1,6 +1,6 @@
 # Portfolio in progress for AAD531
 
-Design inspired by the internet in the late 90s/early 00s
+Design inspired by the internet in the late 90s/early 00s and dissolvedgirl
 
 Not sure what else to put on it yet. Don't really have any projects outside of school stuff that you might usually put on a portfolio. Never know how to write about me's and all that either.
 
